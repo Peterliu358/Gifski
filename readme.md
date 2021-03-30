@@ -2,7 +2,7 @@
 	<img src="Stuff/AppIcon-readme.png" width="200" height="200">
 	<h1>Gifski</h1>
 	<p>
-		<b>Convert videos to high-quality GIFs on your Mac</b>
+		<b>Convert videos to high-quality GIFs on your Macc</b>
 	</p>
 	<br>
 	<br>
